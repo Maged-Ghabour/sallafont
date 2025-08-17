@@ -19,6 +19,7 @@ U+FEFF, U+FFFD;
 body {
 font-family: "DIN", cursive;
 text-align: center;
+background:red;
 }
 
 h1 {
